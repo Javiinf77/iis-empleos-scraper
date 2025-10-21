@@ -1,0 +1,1161 @@
+{
+  "timestamp": "2025-10-21T17:49:19.112482",
+  "total_ofertas": 98,
+  "centros": {
+    "CIBERISCIII": {
+      "total_ofertas": 9,
+      "ofertas": [
+        {
+          "iis": "CIBERISCIII",
+          "area": "CIBERONC",
+          "titulo": "3248/3757",
+          "fecha_limite": "28/10/2025",
+          "fecha_inicio": "14/10/2025",
+          "enlace": "/empleo/detalle-oferta?id=3757",
+          "descripcion": "",
+          "estado": "Publicada",
+          "tipo_plaza": "Empleo general",
+          "centro": "Facultad de Medicina-UAM",
+          "provincia": "MADRID",
+          "categoria": "Titulado Medio",
+          "titulacion": "Grado de biociencias (Bioquímica, Biología, Genética o similares)"
+        },
+        {
+          "iis": "CIBERISCIII",
+          "area": "CIBERBBN",
+          "titulo": "3247/3754",
+          "fecha_limite": "27/10/2025",
+          "fecha_inicio": "13/10/2025",
+          "enlace": "/empleo/detalle-oferta?id=3754",
+          "descripcion": "",
+          "estado": "Publicada",
+          "tipo_plaza": "Empleo general",
+          "centro": "Instituto de Microelectrónica de Barcelona",
+          "provincia": "BARCELONA",
+          "categoria": "Titulado Superior",
+          "titulacion": "Titulado Superior en Ingeniería Biomédica"
+        },
+        {
+          "iis": "CIBERISCIII",
+          "area": "CIBEROBN",
+          "titulo": "3246/3751",
+          "fecha_limite": "27/10/2025",
+          "fecha_inicio": "13/10/2025",
+          "enlace": "/empleo/detalle-oferta?id=3751",
+          "descripcion": "",
+          "estado": "Publicada",
+          "tipo_plaza": "Empleo general",
+          "centro": "HOSPITAL UNIVERSITARIO SON ESPASES",
+          "provincia": "ILLES BALEARS",
+          "categoria": "Titulado Superior",
+          "titulacion": "Licenciatura o Grado + Máster en Ciencias de la Salud (Biología, Farmacia, Psicología, Nutrición y Dietética, Epidemiología, Salud Pública,  etc.) o Ciencias de Datos (Bioinformática, Bioestadística, Big data, etc.)."
+        },
+        {
+          "iis": "CIBERISCIII",
+          "area": "UT",
+          "titulo": "3249/3758",
+          "fecha_limite": "29/10/2025",
+          "fecha_inicio": "15/10/2025",
+          "enlace": "/empleo/detalle-oferta?id=3758",
+          "descripcion": "",
+          "estado": "Publicada",
+          "tipo_plaza": "Tasa de reposición",
+          "centro": "",
+          "provincia": "MADRID",
+          "categoria": "Titulado Superior",
+          "titulacion": "Titulación superior (Licenciatura/Ingeniería o Grado+MAster universitario MECES 3) en Ingeniería Informática, Ingeniería en Telecomunicaciones, Matemáticas o Física"
+        },
+        {
+          "iis": "CIBERISCIII",
+          "area": "CIBERONC",
+          "titulo": "3250/3760",
+          "fecha_limite": "29/10/2025",
+          "fecha_inicio": "15/10/2025",
+          "enlace": "/empleo/detalle-oferta?id=3760",
+          "descripcion": "",
+          "estado": "Publicada",
+          "tipo_plaza": "Tasa de reposición",
+          "centro": "",
+          "provincia": "BARCELONA",
+          "categoria": "Doctor",
+          "titulacion": "Doctor/a en Biomedicina, Bioquímica, Bioingeniería, Biología Molecular o titulaciones afines"
+        },
+        {
+          "iis": "CIBERISCIII",
+          "area": "CIBERES",
+          "titulo": "3245/3755",
+          "fecha_limite": "24/10/2025",
+          "fecha_inicio": "10/10/2025",
+          "enlace": "/empleo/detalle-oferta?id=3755",
+          "descripcion": "",
+          "estado": "Publicada",
+          "tipo_plaza": "Tasa de reposición",
+          "centro": "",
+          "provincia": "GUIPUZCOA",
+          "categoria": "Titulado Superior",
+          "titulacion": "Titulado superior. Grado en Grado en ciencias biomédicas y biotecnológicas o similar. con Master en ciencias biomédicas, gestión y administración o similar."
+        },
+        {
+          "iis": "CIBERISCIII",
+          "area": "CIBERBBN",
+          "titulo": "3244/3756",
+          "fecha_limite": "23/10/2025",
+          "fecha_inicio": "09/10/2025",
+          "enlace": "/empleo/detalle-oferta?id=3756",
+          "descripcion": "",
+          "estado": "Publicada",
+          "tipo_plaza": "Tasa de reposición",
+          "centro": "",
+          "provincia": "ZARAGOZA",
+          "categoria": "Doctor",
+          "titulacion": "Doctor/a en Ciencias o Ciencias de la Salud"
+        },
+        {
+          "iis": "CIBERISCIII",
+          "area": "CIBERDEM",
+          "titulo": "3243/3718",
+          "fecha_limite": "22/10/2025",
+          "fecha_inicio": "08/10/2025",
+          "enlace": "/empleo/detalle-oferta?id=3718",
+          "descripcion": "",
+          "estado": "Publicada",
+          "tipo_plaza": "Tasa de reposición",
+          "centro": "",
+          "provincia": "BARCELONA",
+          "categoria": "Doctor",
+          "titulacion": "Doctor en Biomedicina, Bioquímica, Bioingeniería, Biología Molecular o titulaciones afines."
+        },
+        {
+          "iis": "CIBERISCIII",
+          "area": "UT",
+          "titulo": "3242/3753",
+          "fecha_limite": "21/10/2025",
+          "fecha_inicio": "07/10/2025",
+          "enlace": "/empleo/detalle-oferta?id=3753",
+          "descripcion": "",
+          "estado": "Publicada",
+          "tipo_plaza": "Tasa de reposición",
+          "centro": "",
+          "provincia": "MADRID",
+          "categoria": "Titulado Superior",
+          "titulacion": "Licenciatura en Derecho o Grado en Derecho + Master universitario (Meces 3)"
+        }
+      ]
+    },
+    "FIMABIS": {
+      "total_ofertas": 4,
+      "ofertas": [
+        {
+          "iis": "FIMABIS",
+          "titulo": "INVESTIGADOR ENSAYOS CLINICOS",
+          "fecha_limite": "27/10/2025",
+          "fecha_inicio": "21/10/2025",
+          "enlace": "https://www.rfgi.es/ConvocatoriasPropiasFIMABIS/es/Convocatorias/VerConvocatoria/319",
+          "descripcion": "",
+          "estado": "Abierta",
+          "tipo": "Empleo"
+        },
+        {
+          "iis": "FIMABIS",
+          "titulo": "Técnico Ingeniero",
+          "fecha_limite": "26/10/2025",
+          "fecha_inicio": "20/10/2025",
+          "enlace": "https://www.rfgi.es/ConvocatoriasPropiasFIMABIS/es/Convocatorias/VerConvocatoria/318",
+          "descripcion": "",
+          "estado": "Abierta",
+          "tipo": "Empleo"
+        },
+        {
+          "iis": "FIMABIS",
+          "titulo": "CARDIÓLOGO PARA COLABORAR EN PROYECTOS Y GESTIÓN DE GRUPO DE INVESTIGACIÓN",
+          "fecha_limite": "21/10/2025",
+          "fecha_inicio": "15/10/2025",
+          "enlace": "https://www.rfgi.es/ConvocatoriasPropiasFIMABIS/es/Convocatorias/VerConvocatoria/317",
+          "descripcion": "",
+          "estado": "Abierta",
+          "tipo": "Empleo"
+        },
+        {
+          "iis": "FIMABIS",
+          "titulo": "Grado Superior de Formación profesional",
+          "fecha_limite": "21/10/2025",
+          "fecha_inicio": "15/10/2025",
+          "enlace": "https://www.rfgi.es/ConvocatoriasPropiasFIMABIS/es/Convocatorias/VerConvocatoria/316",
+          "descripcion": "",
+          "estado": "Abierta",
+          "tipo": "Empleo"
+        }
+      ]
+    },
+    "IGTP": {
+      "total_ofertas": 14,
+      "ofertas": [
+        {
+          "iis": "IGTP",
+          "titulo": "2025_00_Vols cursar les teves pràctiques amb nosaltres?Becario/estudiante, Tiempo completo o",
+          "fecha_limite": "",
+          "enlace": "https://igtp.jobs.personio.com/job/1929765?language=es",
+          "descripcion": "",
+          "tipo_contrato": "",
+          "ubicacion": ""
+        },
+        {
+          "iis": "IGTP",
+          "titulo": "2025_122_NURSE IN CATALONIA FOR DM1-Hub projectEmpleado permanente, Tiempo completo·BADALONA·BADALONA",
+          "fecha_limite": "",
+          "enlace": "https://igtp.jobs.personio.com/job/2380303?language=es",
+          "descripcion": "",
+          "tipo_contrato": "",
+          "ubicacion": ""
+        },
+        {
+          "iis": "IGTP",
+          "titulo": "2025_123_STUDY COORDINATORTemporal, Tiempo completo·BADALONA·BADALONA",
+          "fecha_limite": "",
+          "enlace": "https://igtp.jobs.personio.com/job/2384882?language=es",
+          "descripcion": "",
+          "tipo_contrato": "temporal",
+          "ubicacion": ""
+        },
+        {
+          "iis": "IGTP",
+          "titulo": "2025_125_SUPERIOR TECHNICIAN - DM1-Hub ProjectEmpleado permanente, Tiempo completo·BADALONA·BADALONA",
+          "fecha_limite": "",
+          "enlace": "https://igtp.jobs.personio.com/job/2385038?language=es",
+          "descripcion": "",
+          "tipo_contrato": "",
+          "ubicacion": ""
+        },
+        {
+          "iis": "IGTP",
+          "titulo": "2025_127_TÈCNIC_A BÀSIC EN DOCUMENTACIÓ I ADMINISTRACIÓ SANITÀRIATemporal, Tiempo completo·BADALONA·BADALONA",
+          "fecha_limite": "",
+          "enlace": "https://igtp.jobs.personio.com/job/2385230?language=es",
+          "descripcion": "",
+          "tipo_contrato": "temporal",
+          "ubicacion": ""
+        },
+        {
+          "iis": "IGTP",
+          "titulo": "2025_128 TÉCNICO/A SUPERIOREmpleado permanente, Tiempo completo·BADALONA·BADALONA",
+          "fecha_limite": "",
+          "enlace": "https://igtp.jobs.personio.com/job/2385253?language=es",
+          "descripcion": "",
+          "tipo_contrato": "",
+          "ubicacion": ""
+        },
+        {
+          "iis": "IGTP",
+          "titulo": "2025_129_BIOINFORMATICIAN_Translational Genomics_CytometryEmpleado permanente, Tiempo parcial·BADALONA·BADALONA",
+          "fecha_limite": "",
+          "enlace": "https://igtp.jobs.personio.com/job/2391928?language=es",
+          "descripcion": "",
+          "tipo_contrato": "",
+          "ubicacion": ""
+        },
+        {
+          "iis": "IGTP",
+          "titulo": "2025_130_SUPERIOR TECHNICIANTemporal, Tiempo completo·BADALONA·BADALONA",
+          "fecha_limite": "",
+          "enlace": "https://igtp.jobs.personio.com/job/2392870?language=es",
+          "descripcion": "",
+          "tipo_contrato": "temporal",
+          "ubicacion": ""
+        },
+        {
+          "iis": "IGTP",
+          "titulo": "2025_131_INFERMER/A DE RECERCATemporal, Tiempo parcial·BADALONA·BADALONA",
+          "fecha_limite": "",
+          "enlace": "https://igtp.jobs.personio.com/job/2393164?language=es",
+          "descripcion": "",
+          "tipo_contrato": "temporal",
+          "ubicacion": ""
+        },
+        {
+          "iis": "IGTP",
+          "titulo": "2025_132_SUPERIOR TECHNICIANEmpleado permanente, Tiempo completo·BADALONA·BADALONA",
+          "fecha_limite": "",
+          "enlace": "https://igtp.jobs.personio.com/job/2397341?language=es",
+          "descripcion": "",
+          "tipo_contrato": "",
+          "ubicacion": ""
+        },
+        {
+          "iis": "IGTP",
+          "titulo": "2025_133_TÈCNIC_A COMPTABLETemporal, Tiempo completo·BADALONA·BADALONA",
+          "fecha_limite": "",
+          "enlace": "https://igtp.jobs.personio.com/job/2397591?language=es",
+          "descripcion": "",
+          "tipo_contrato": "temporal",
+          "ubicacion": ""
+        },
+        {
+          "iis": "IGTP",
+          "titulo": "RESOLUCIONES DE CONVOCATORIAS 2024Empleado permanente, Tiempo completo·BADALONA·BADALONA",
+          "fecha_limite": "",
+          "enlace": "https://igtp.jobs.personio.com/job/1917465?language=es",
+          "descripcion": "",
+          "tipo_contrato": "",
+          "ubicacion": ""
+        },
+        {
+          "iis": "IGTP",
+          "titulo": "RESOLUCIONES DE CONVOCATORIAS 2025Empleado permanente, Tiempo completo·BADALONA·BADALONA",
+          "fecha_limite": "",
+          "enlace": "https://igtp.jobs.personio.com/job/1949941?language=es",
+          "descripcion": "",
+          "tipo_contrato": "",
+          "ubicacion": ""
+        },
+        {
+          "iis": "IGTP",
+          "titulo": "PROGRAMA AJUTS TRIAS TALENTS - RECERCA JOVE - TALENTS BIOMEDTemporal,",
+          "fecha_limite": "",
+          "enlace": "https://igtp.jobs.personio.com/job/2351699?language=es",
+          "descripcion": "",
+          "tipo_contrato": "temporal",
+          "ubicacion": ""
+        }
+      ]
+    },
+    "IMIB": {
+      "total_ofertas": 1,
+      "ofertas": [
+        {
+          "iis": "IMIB",
+          "titulo": "Resolución de la Dirección de la Fundación para la Formación e Investigación Sanitarias de la Región de Murcia por la que se convoca concurso para la contratación de un/a TÉCNICO/A GRADO DE APOYO A LA INVESTIGACIÓN para ",
+          "fecha_inicio": "20/10/2025",
+          "fecha_limite": "28/10/2025",
+          "estado": "Abierta",
+          "provincia": "Murcia",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IMIB",
+          "enlace": "https://www.imib.es/rrhh/ofertasDeEmpleo.jsf"
+        }
+      ]
+    },
+    "IDIVAL": {
+      "total_ofertas": 0,
+      "ofertas": []
+    },
+    "IBIS_Sevilla": {
+      "total_ofertas": 2,
+      "ofertas": [
+        {
+          "iis": "IBIS_Sevilla",
+          "titulo": "Una oferta de técnico/a de investigación. REF/241/25 HUVR-I",
+          "fecha_inicio": "26/10/2025",
+          "fecha_limite": "26/10/2025",
+          "estado": "Abierta",
+          "provincia": "Sevilla",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IBIS Sevilla",
+          "enlace": "https://www.ibis-sevilla.es/es/ofertas-empleo/ofertas-de-empleo-ibis/una-oferta-de-tecnicoa-de-investigacion-ref24125-huvr-i/"
+        },
+        {
+          "iis": "IBIS_Sevilla",
+          "titulo": "Una plaza de técnico/a de investigación. REF/242/25 HUVR-I",
+          "fecha_inicio": "23/10/2025",
+          "fecha_limite": "23/10/2025",
+          "estado": "Abierta",
+          "provincia": "Sevilla",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IBIS Sevilla",
+          "enlace": "https://www.ibis-sevilla.es/es/ofertas-empleo/ofertas-de-empleo-ibis/una-plaza-de-tecnicoa-de-investigacion-ref24225-huvr-i/"
+        }
+      ]
+    },
+    "IBS_Granada": {
+      "total_ofertas": 1,
+      "ofertas": [
+        {
+          "iis": "IBS_Granada",
+          "titulo": "98/2025.- Técnico/a Investigación RICORS RD24/0013/0007",
+          "fecha_inicio": "16/10/2025",
+          "fecha_limite": "26/10/2025",
+          "estado": "Abierta",
+          "provincia": "Granada",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "ibs.GRANADA",
+          "enlace": "https://www.ibsgranada.es/ofertas/98-2025-tecnico-a-investigacion-ricors-rd24-0013-0007/"
+        }
+      ]
+    },
+    "IBSAL": {
+      "total_ofertas": 1,
+      "ofertas": [
+        {
+          "iis": "IBSAL",
+          "titulo": "Ref.54_2025. Titulado Superior en Investigación",
+          "fecha_inicio": "17/02/2014",
+          "fecha_limite": "03/11/2025",
+          "estado": "",
+          "provincia": "Salamanca",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IBSAL",
+          "enlace": "https://ibsal.es/convocatorias/ref-54_2025-titulado-superior-en-investigacion/"
+        }
+      ]
+    },
+    "Puerta_Hierro": {
+      "total_ofertas": 5,
+      "ofertas": [
+        {
+          "iis": "Puerta_Hierro",
+          "titulo": "Convocatoria para la contratación de un/a  técnico superior en documentación y administración sanitarias para la Fundación de Investigación Biomédica del Hospital Universitario Puerta de Hierro-Majadahonda",
+          "fecha_inicio": "21/10/2025",
+          "fecha_limite": "04/11/2025",
+          "estado": "Abierta",
+          "provincia": "Madrid",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "Hospital Universitario Puerta de Hierro-Majadahonda",
+          "enlace": "https://investigacionpuertadehierro.com/wp-content/uploads/2025/10/CONVOCATORIA-2025-56-subir.pdf",
+          "referencia": "2025-56"
+        },
+        {
+          "iis": "Puerta_Hierro",
+          "titulo": "Convocatoria para la contratación de un/a  técnico de grado superior de laboratorio en formación para la Fundación de Investigación Biomédica del Hospital Universitario Puerta de Hierro-Majadahonda",
+          "fecha_inicio": "20/10/2025",
+          "fecha_limite": "03/11/2025",
+          "estado": "Abierta",
+          "provincia": "Madrid",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "Hospital Universitario Puerta de Hierro-Majadahonda",
+          "enlace": "https://investigacionpuertadehierro.com/wp-content/uploads/2025/10/CONVOCATORIA-2025-55-subir.pdf",
+          "referencia": "2025-55"
+        },
+        {
+          "iis": "Puerta_Hierro",
+          "titulo": "Convocatoria para la contratación de un/a  Project Manager para la Fundación de Investigación Biomédica del Hospital Universitario Puerta de Hierro-Majadahonda",
+          "fecha_inicio": "16/10/2025",
+          "fecha_limite": "30/10/2025",
+          "estado": "Abierta",
+          "provincia": "Madrid",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "Hospital Universitario Puerta de Hierro-Majadahonda",
+          "enlace": "https://investigacionpuertadehierro.com/wp-content/uploads/2025/10/CONVOCATORIA-INVESTIGADOR-R21-2025-54-subir.pdf",
+          "referencia": "2025-54"
+        },
+        {
+          "iis": "Puerta_Hierro",
+          "titulo": "Convocatoria para la contratación de un/a gestor/a de compras (en el marco de tasa de reposición autorizada para la Fundación de Investigación Biomédica del Hospital Universitario Puerta de Hierro-Majadahonda",
+          "fecha_inicio": "14/10/2025",
+          "fecha_limite": "28/10/2025",
+          "estado": "Abierta",
+          "provincia": "Madrid",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "Hospital Universitario Puerta de Hierro-Majadahonda",
+          "enlace": "https://investigacionpuertadehierro.com/wp-content/uploads/2025/10/CONVOCATORIA-TASA-REPOSICION-COMPRAS-2025-53-subir.pdf",
+          "referencia": "2025-53"
+        },
+        {
+          "iis": "Puerta_Hierro",
+          "titulo": "Convocatoria para un contrato de trabajo por circunstancias de la producción para la Fundación de Investigación Biomédica del Hospital Universitario Puerta de Hierro-Majadahonda",
+          "fecha_inicio": "13/10/2025",
+          "fecha_limite": "27/10/2025",
+          "estado": "Abierta",
+          "provincia": "Madrid",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "Hospital Universitario Puerta de Hierro-Majadahonda",
+          "enlace": "https://investigacionpuertadehierro.com/wp-content/uploads/2025/10/CONVOCATORIA-CIRCUNST.PRODUCC.CONTAB.-2025-52-subir.pdf",
+          "referencia": "2025-52"
+        }
+      ]
+    },
+    "IDIBAPS": {
+      "total_ofertas": 28,
+      "ofertas": [
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] Llicenciat/da Suport Recerca pel grup Genòmica traslacional i terapies dirigides en tumors sòlids (Convocatòria FU-282/2025)",
+          "fecha_inicio": "21/10/2025",
+          "fecha_limite": "21/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/19/4ce9861ffef70558a0b1ff280ff4426617025daf.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] R2A-Postdoctoral Researcher at the “Neurobiologia Teòrica de Circuits Corticals” group (Convocatòria FU-297/2025)",
+          "fecha_inicio": "23/10/2025",
+          "fecha_limite": "23/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/11/a2afaabf51314089ec792ed626d8edf80b8498a5.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] Llicenciat/da Suport Recerca at the Parkinson’s & Other Neurodegenerative Movement Disorders group (Convocatòria FU-295/2025)",
+          "fecha_inicio": "23/10/2025",
+          "fecha_limite": "23/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/11/afc045f9ea6d3fa6ed8c54b616d66de759cd6062.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] Tècnic/a Mig Suport Recerca at the Parkinson’s & Other Neurodegenerative Movement Disorders group (Convocatòria FU-294/2025)",
+          "fecha_inicio": "23/10/2025",
+          "fecha_limite": "23/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/11/4150a252036dc5e8347758ef159ec5c941b8b21e.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] MD Clinical Researcher at the Parkinson’s & Other Neurodegenerative Movement Disorders group (Convocatòria FU-293/2025)",
+          "fecha_inicio": "23/10/2025",
+          "fecha_limite": "23/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/11/a7e346099a122e8b3023c1e5607515b49dfc5d6b.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] Tècnic/a Mig Suport Recerca pel grup Malalties metabòliques hereditàries i malalties musculars (Convocatòria FU-298/2025)",
+          "fecha_inicio": "23/10/2025",
+          "fecha_limite": "23/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/11/e2824016ae000aac39c5c18f55a2625def218d33.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] R2C-Assistant Researcher pel grup Malaltia inflamatòria intestinal (Convocatòria FU-300/2025)",
+          "fecha_inicio": "23/10/2025",
+          "fecha_limite": "23/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/11/899c0e1d7dd61a979a2c71455e3018321b1b653a.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] Tècnic/a de laboratori at the “Tumor Microenvironment Plasticity and Heterogeneity” group (Convocatòria FU-296/2025)",
+          "fecha_inicio": "23/10/2025",
+          "fecha_limite": "23/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/11/585c7a97bc742c6eb75c66bb0d89cc1856642406.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] Tècnic/a de laboratori pel grup Fetge, sistema digestiu i metabolisme (Convocatòria FU-314/2025)",
+          "fecha_inicio": "25/10/2025",
+          "fecha_limite": "25/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/20/4ffd628f83468e8b2096fd1c3c33d9466af16ae1.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] Llicenciat/da Suport Recerca para el grupo Ginecología, reproducción humana y salud de la mujer (Convocatòria FU-303/2025)",
+          "fecha_inicio": "26/10/2025",
+          "fecha_limite": "26/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/12/27b292db66055e94dad1a9ef6cf4e3b613e9d4d5.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] Tècnic/a Funcional de Gestió per a la Oficina de Comunicació (Convocatòria FU-304/2025)",
+          "fecha_inicio": "26/10/2025",
+          "fecha_limite": "26/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/12/2002be54f39c160de03fe873119d079d731a2f0b.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] Enfermera/o para el grupo Ginecología, reproducción humana y salud de la mujer (Convocatòria FU-302/2025)",
+          "fecha_inicio": "26/10/2025",
+          "fecha_limite": "26/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/12/fa7d8356e893b6e8cfb5d6885b5e886e67d8bc01.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] MD Clinical Researcher pel grup Oncologia Mèdica (Convocatòria FU-283/2025)",
+          "fecha_inicio": "29/10/2025",
+          "fecha_limite": "29/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0019/99/342170cbe517bdebab5ad4f558d16da506b2d22d.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] R2A-Posdoctoral Researcher pel grup Psiquiatria i psicologia infantil i adolescent (Convocatòria FU-312/2025)",
+          "fecha_inicio": "30/10/2025",
+          "fecha_limite": "30/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/20/55b8fcb99c704fa1b9b1eedb59d729c47b76015b.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] Tècnic/a de laboratori at the “Gene Regulation in Stem Cells, Cell Plasticity, Differentiation, and Cancer” group (Convocatòria FU-309/2025)",
+          "fecha_inicio": "30/10/2025",
+          "fecha_limite": "30/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/20/12b35d4eb84bd35c16f44dd1d35b8c3188ef3512.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] Llicenciat/da Suport Recerca pel grup Biopatologia i tractament de les arrítmies (Convocatòria FU-308/2025)",
+          "fecha_inicio": "30/10/2025",
+          "fecha_limite": "30/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/20/6cbbdbec3407ead0a2c7f54e97bb08d1e0e4a2d2.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] Tècnic/a Mig Suport Recerca pel grup Medicina fetal y perinatal (Convocatòria FU-307/2025)",
+          "fecha_inicio": "30/10/2025",
+          "fecha_limite": "30/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/20/4c2374ad1a658f7ad24eff0ccb7161a9f2f5e84e.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] R2A-Posdoctoral Researcher pel grup Patogènia i tractament de l’autoimmunitat (Convocatòria FU-306/2025)",
+          "fecha_inicio": "30/10/2025",
+          "fecha_limite": "30/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/20/34b08f76cf52cd174e3926acdcea3de6d5011b8e.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] Llicenciat/da Suport Recerca at the Neuroimatge multimodal en psicosi recent I d’alt risc (Convocatòria FU-305/2025)",
+          "fecha_inicio": "30/10/2025",
+          "fecha_limite": "30/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/20/6e79668b9207d54700bed793b543ff7565836f96.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] MD Clinical Researcher pel grup Alzheimer i altres trastorns cognitius (Convocatòria FU-147/2025)",
+          "fecha_inicio": "30/10/2025",
+          "fecha_limite": "30/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/11/e1f1decd5e29a5cd489f97977a1350896b9acea1.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] MD Clinical Researcher pel grup Hematología i Oncologia (Convocatòria FU-311/2025)",
+          "fecha_inicio": "30/10/2025",
+          "fecha_limite": "30/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/20/3599df2d6337466e27948be23c8c584ba4cd57db.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] Enfermera/o para el grupo Investigación aplicada en infecciones respiratorias y enfermo crítico (Convocatòria FU-313/2025)",
+          "fecha_inicio": "30/10/2025",
+          "fecha_limite": "30/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/20/c30aa006487ff7ac62e96beb80eb5cea57b5344d.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] R2A-Posdoctoral Researcher at the “Gene Regulation in Stem Cells, Cell Plasticity, Differentiation, and Cancer” group (Convocatòria FU-310/2025)",
+          "fecha_inicio": "30/10/2025",
+          "fecha_limite": "30/10/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/20/640883d13122a4052459a64e34f7e414f6ddf4c4.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] Responsable àrea Bioinformàtica de la plataforma de Computació Científica (Convocatòria FU-ES-14/2024)",
+          "fecha_inicio": "02/11/2025",
+          "fecha_limite": "02/11/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/18/82d5f8cf1de74682f7f5e680cd2c84567b9c0ce4.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] Tècnic/a Funcional de Gestió per a la Unitat de Patrimoni y Serveis generals (Convocatòria FU-265/2025)",
+          "fecha_inicio": "02/11/2025",
+          "fecha_limite": "02/11/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0019/99/c5f6c804bb21ded65136b4797282de624f31f1ab.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] Tècnic/a Superior a Plataformes per a la Plataforma d’Estadística Mèdica (Convocatòria FU-315/2025)",
+          "fecha_inicio": "03/11/2025",
+          "fecha_limite": "03/11/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/26/1260918719f2db5eb9aba30afb5e989b2dbc6968.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] Llicenciat/da Suport Recerca para el grupo Riesgo Cardiovascular, Nutrición y Envejecimiento (Convocatòria FU-290/2025)",
+          "fecha_inicio": "04/11/2025",
+          "fecha_limite": "04/11/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/27/6735bcb8bb7039a17f98c23d73a158f3971075ff.pdf"
+        },
+        {
+          "iis": "IDIBAPS",
+          "titulo": "[FRCB-IDIBAPS] R1-Predoctoral Researchers at FRCB-IDIBAPS – Predoctoral Researchers: DYNAMIS EU - doctoral programme (Convocatòria FU-301/2025)",
+          "fecha_inicio": "02/12/2025",
+          "fecha_limite": "02/12/2025",
+          "estado": "Abierta",
+          "provincia": "Barcelona",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIBAPS",
+          "enlace": "https://www.clinicbarcelona.org/uploads/media/default/0020/16/9a323c1b9f8dad322fcaad15d974e81c2347d73a.pdf"
+        }
+      ]
+    },
+    "IDIS_Santiago": {
+      "total_ofertas": 10,
+      "ofertas": [
+        {
+          "iis": "IDIS_Santiago",
+          "titulo": "1.2 1 TITULADO/A SUPERIOR DOCTOR/A",
+          "fecha_inicio": "16/10/2025",
+          "fecha_limite": "25/10/2025",
+          "estado": "Abierta",
+          "provincia": "Santiago de Compostela",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIS Santiago",
+          "enlace": "https://empleo.idisantiago.es/ofertastrabajo/inscripciones/839",
+          "referencia": "120/2025"
+        },
+        {
+          "iis": "IDIS_Santiago",
+          "titulo": "1.2 2 TITULADO/A SUPERIOR ESPECIALISTA",
+          "fecha_inicio": "16/10/2025",
+          "fecha_limite": "25/10/2025",
+          "estado": "Abierta",
+          "provincia": "Santiago de Compostela",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIS Santiago",
+          "enlace": "https://empleo.idisantiago.es/ofertastrabajo/inscripciones/840",
+          "referencia": "101/2025"
+        },
+        {
+          "iis": "IDIS_Santiago",
+          "titulo": "TITULACIÓN REQUERIDA: Licenciatura/grado en la rama de las ciencias o ciencias de la salud",
+          "fecha_inicio": "16/10/2025",
+          "fecha_limite": "25/10/2025",
+          "estado": "Abierta",
+          "provincia": "Santiago de Compostela",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIS Santiago",
+          "enlace": "https://empleo.idisantiago.es/ofertastrabajo/inscripciones/841",
+          "referencia": "126/2025"
+        },
+        {
+          "iis": "IDIS_Santiago",
+          "titulo": "1.2.3 TITULADO/A GRADUADO/A I",
+          "fecha_inicio": "16/10/2025",
+          "fecha_limite": "25/10/2025",
+          "estado": "Abierta",
+          "provincia": "Santiago de Compostela",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIS Santiago",
+          "enlace": "https://empleo.idisantiago.es/ofertastrabajo/inscripciones/842",
+          "referencia": "121/2025"
+        },
+        {
+          "iis": "IDIS_Santiago",
+          "titulo": "1.2 3 TITULADO GRADUADO I ou 1.2 2 TITULADO/A SUPERIOR ESPECIALISTA",
+          "fecha_inicio": "16/10/2025",
+          "fecha_limite": "25/10/2025",
+          "estado": "Abierta",
+          "provincia": "Santiago de Compostela",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIS Santiago",
+          "enlace": "https://empleo.idisantiago.es/ofertastrabajo/inscripciones/843",
+          "referencia": "112/2025"
+        },
+        {
+          "iis": "IDIS_Santiago",
+          "titulo": "1.2 5 TÉCNICO/A SUPERIOR FPII",
+          "fecha_inicio": "16/10/2025",
+          "fecha_limite": "25/10/2025",
+          "estado": "Abierta",
+          "provincia": "Santiago de Compostela",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIS Santiago",
+          "enlace": "https://empleo.idisantiago.es/ofertastrabajo/inscripciones/844",
+          "referencia": "125/2025"
+        },
+        {
+          "iis": "IDIS_Santiago",
+          "titulo": "TITULACIÓN REQUERIDA: Grado en Biología y Máster en I+D de Medicamentos.",
+          "fecha_inicio": "16/10/2025",
+          "fecha_limite": "25/10/2025",
+          "estado": "Abierta",
+          "provincia": "Santiago de Compostela",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIS Santiago",
+          "enlace": "https://empleo.idisantiago.es/ofertastrabajo/inscripciones/845",
+          "referencia": "115/2025"
+        },
+        {
+          "iis": "IDIS_Santiago",
+          "titulo": "TITULACIÓN REQUERIDA:  Doctorado,  Licenciatura/Grado en Biología, Farmacia, Biomedicina, Ciencias biomédicas o Química",
+          "fecha_inicio": "16/10/2025",
+          "fecha_limite": "25/10/2025",
+          "estado": "Abierta",
+          "provincia": "Santiago de Compostela",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIS Santiago",
+          "enlace": "https://empleo.idisantiago.es/ofertastrabajo/inscripciones/846",
+          "referencia": "117/2025"
+        },
+        {
+          "iis": "IDIS_Santiago",
+          "titulo": "TITULACIÓN REQUERIDA: Grado en Óptica y Optometría  y Máster en Optometría",
+          "fecha_inicio": "16/10/2025",
+          "fecha_limite": "25/10/2025",
+          "estado": "Abierta",
+          "provincia": "Santiago de Compostela",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIS Santiago",
+          "enlace": "https://empleo.idisantiago.es/ofertastrabajo/inscripciones/847",
+          "referencia": "119/2025"
+        },
+        {
+          "iis": "IDIS_Santiago",
+          "titulo": "TITULACIÓN REQUERIDA: Diplomatura/Grado en enfermería",
+          "fecha_inicio": "",
+          "fecha_limite": "",
+          "estado": "",
+          "provincia": "Santiago de Compostela",
+          "categoria": "",
+          "titulacion": "",
+          "centro": "IDIS Santiago",
+          "enlace": "https://empleo.idisantiago.es/ofertastrabajo/inscripciones/256",
+          "referencia": ""
+        }
+      ]
+    },
+    "IIS_La_Fe": {
+      "total_ofertas": 13,
+      "ofertas": [
+        {
+          "titulo": "Contratación de Técnico/a de gestión de la investigación (M3) - Área de Contratación Pública e Infraestructuras",
+          "fecha_inicio": "",
+          "fecha_limite": "",
+          "enlace": "https://www.iislafe.es/es/talento/empleo/3877/contratacion-de-tecnico-a-de-gestion-de-la-investigacion-m3-area-de-contratacion-publica-e-infraestructuras",
+          "centro": "IIS La Fe",
+          "descripcion": ""
+        },
+        {
+          "titulo": "Contratación de Técnico/a de gestión de la investigación (M3) - Plataforma de Big Data, IA, Bioinformática y Bioestadística",
+          "fecha_inicio": "",
+          "fecha_limite": "",
+          "enlace": "https://www.iislafe.es/es/talento/empleo/3872/contratacion-de-tecnico-a-de-gestion-de-la-investigacion-m3-plataforma-de-big-data-ia-bioinformatica-y-bioestadistica",
+          "centro": "IIS La Fe",
+          "descripcion": ""
+        },
+        {
+          "titulo": "Contratación de Personal Investigador/a predoctoral (First Stage Researcher, R1). Grupo de investigación de Biomarcadores, Medicina Genómica, Estadística y Análisis Masivo de datos en Reproducción Humana Asistida",
+          "fecha_inicio": "",
+          "fecha_limite": "",
+          "enlace": "https://www.iislafe.es/es/talento/empleo/3870/contratacion-de-personal-investigador-a-predoctoral-first-stage-researcher-r1-grupo-de-investigacion-de-biomarcadores-medicina-genomica-estadistica-y-analisis-masivo-de-datos-en-reproduccion-humana-asistida",
+          "centro": "IIS La Fe",
+          "descripcion": ""
+        },
+        {
+          "titulo": "Contratación de Técnico/a superior de investigación (T3) - Grupo de Investigación Biomédica en Imagen (GIBI230)",
+          "fecha_inicio": "",
+          "fecha_limite": "",
+          "enlace": "https://www.iislafe.es/es/talento/empleo/3867/contratacion-de-tecnico-a-superior-de-investigacion-t3-grupo-de-investigacion-biomedica-en-imagen-gibi230",
+          "centro": "IIS La Fe",
+          "descripcion": ""
+        },
+        {
+          "titulo": "Contratación de Ayudante técnico de gestión de la investigación (M2) - Área científica",
+          "fecha_inicio": "",
+          "fecha_limite": "",
+          "enlace": "https://www.iislafe.es/es/talento/empleo/3864/contratacion-de-ayudante-tecnico-de-gestion-de-la-investigacion-m2-area-cientifica",
+          "centro": "IIS La Fe",
+          "descripcion": ""
+        },
+        {
+          "titulo": "Contratación de Técnico/a de investigación (T3) - Grupo de Investigación Biomédica en Imagen (GIBI-230)",
+          "fecha_inicio": "",
+          "fecha_limite": "",
+          "enlace": "https://www.iislafe.es/es/talento/empleo/3862/contratacion-de-tecnico-a-de-investigacion-t3-grupo-de-investigacion-biomedica-en-imagen-gibi-230",
+          "centro": "IIS La Fe",
+          "descripcion": ""
+        },
+        {
+          "titulo": "Contratación de Técnico/a de gestión de la investigación (M3) - Área Internacional",
+          "fecha_inicio": "",
+          "fecha_limite": "",
+          "enlace": "https://www.iislafe.es/es/talento/empleo/3863/contratacion-de-tecnico-a-de-gestion-de-la-investigacion-m3-area-internacional",
+          "centro": "IIS La Fe",
+          "descripcion": ""
+        },
+        {
+          "titulo": "Contratación de Personal Investigador Reconocido Novel (Recognised Researcher, R2A)  - Grupo de Investigación Clínica y Traslacional en Cardiología",
+          "fecha_inicio": "",
+          "fecha_limite": "",
+          "enlace": "https://www.iislafe.es/es/talento/empleo/3852/contratacion-de-personal-investigador-reconocido-novel-recognised-researcher-r2a-grupo-de-investigacion-clinica-y-traslacional-en-cardiologia",
+          "centro": "IIS La Fe",
+          "descripcion": ""
+        },
+        {
+          "titulo": "Contratación de Enfermero/a de investigación (T3) - Grupo de investigación Hepatología, cirugía HBP y Trasplantes",
+          "fecha_inicio": "",
+          "fecha_limite": "",
+          "enlace": "https://www.iislafe.es/es/talento/empleo/3847/contratacion-de-enfermero-a-de-investigacion-t3-grupo-de-investigacion-hepatologia-cirugia-hbp-y-trasplantes",
+          "centro": "IIS La Fe",
+          "descripcion": ""
+        },
+        {
+          "titulo": "Contratación de Técnico/a superior de investigación (T3) - Grupo de Investigación Biomédica en Imagen (GIBI230)",
+          "fecha_inicio": "",
+          "fecha_limite": "",
+          "enlace": "https://www.iislafe.es/es/talento/empleo/3844/contratacion-de-tecnico-a-superior-de-investigacion-t3-grupo-de-investigacion-biomedica-en-imagen-gibi230",
+          "centro": "IIS La Fe",
+          "descripcion": ""
+        },
+        {
+          "titulo": "Contratación de Facultativo especialista de investigación (T3)  - Grupo de investigación Hepatología, Cirugía Hepatobiliopancreática y Trasplantes",
+          "fecha_inicio": "",
+          "fecha_limite": "",
+          "enlace": "https://www.iislafe.es/es/talento/empleo/3841/contratacion-de-facultativo-especialista-de-investigacion-t3-grupo-de-investigacion-hepatologia-cirugia-hepatobiliopancreatica-y-trasplantes",
+          "centro": "IIS La Fe",
+          "descripcion": ""
+        },
+        {
+          "titulo": "Contratación de Técnico/a de investigación (T3) - Grupo de investigación Biomedicina Molecular, Celular y Genómica",
+          "fecha_inicio": "",
+          "fecha_limite": "",
+          "enlace": "https://www.iislafe.es/es/talento/empleo/3838/contratacion-de-tecnico-a-de-investigacion-t3-grupo-de-investigacion-biomedicina-molecular-celular-y-genomica",
+          "centro": "IIS La Fe",
+          "descripcion": ""
+        },
+        {
+          "titulo": "Contratación de un/a Técnico/a de investigación (T3) - Grupo de investigación UBIMP",
+          "fecha_inicio": "",
+          "fecha_limite": "",
+          "enlace": "https://www.iislafe.es/es/talento/empleo/3837/contratacion-de-un-a-tecnico-a-de-investigacion-t3-grupo-de-investigacion-ubimp",
+          "centro": "IIS La Fe",
+          "descripcion": ""
+        }
+      ]
+    },
+    "IIS_Princesa": {
+      "total_ofertas": 4,
+      "ofertas": [
+        {
+          "titulo": "Tec Apoyo Proy completo 1",
+          "fecha_inicio": "",
+          "fecha_limite": "30/10/2025",
+          "enlace": "https://www.iis-princesa.org/wp-content/uploads/2025/10/Tec_Apoyo_Proy_completo-1.pdf",
+          "centro": "IIS Princesa",
+          "descripcion": ""
+        },
+        {
+          "titulo": "Intensificacion Hermatologia",
+          "fecha_inicio": "",
+          "fecha_limite": "30/10/2025",
+          "enlace": "https://www.iis-princesa.org/wp-content/uploads/2025/10/Intensificacion-Hermatologia.pdf",
+          "centro": "IIS Princesa",
+          "descripcion": ""
+        },
+        {
+          "titulo": "Tit Superior EECC completo",
+          "fecha_inicio": "",
+          "fecha_limite": "30/10/2025",
+          "enlace": "https://www.iis-princesa.org/wp-content/uploads/2025/10/Tit_Superior_EECC_completo.pdf",
+          "centro": "IIS Princesa",
+          "descripcion": ""
+        },
+        {
+          "titulo": "Tec Laboratorio completo.doc",
+          "fecha_inicio": "",
+          "fecha_limite": "30/10/2025",
+          "enlace": "https://www.iis-princesa.org/wp-content/uploads/2025/10/Tec_Laboratorio_completo.doc.pdf",
+          "centro": "IIS Princesa",
+          "descripcion": ""
+        }
+      ]
+    },
+    "IISGM": {
+      "total_ofertas": 1,
+      "ofertas": [
+        {
+          "titulo": "TÉCNICO/A DE GRADO SUPERIOR",
+          "fecha_inicio": "",
+          "fecha_limite": "",
+          "enlace": "https://www.iisgm.com/ofertas-de-empleo/3/tecnico-a-de-grado-superior",
+          "centro": "IISGM",
+          "descripcion": ""
+        }
+      ]
+    },
+    "Biobizkaia": {
+      "total_ofertas": 5,
+      "ofertas": [
+        {
+          "titulo": "Investigador/a Doctor/a especializado/a en GMP para trabajar en el Consorcio Estatal en Red para el desarrollo de\r\nMedicamentos de Terapias Avanzadas (CERTERA), Ref. CERT22/00044, del IIS Biobizkaia",
+          "fecha_inicio": "21/10/2025 16:45",
+          "fecha_limite": "19/11/2025 8:00",
+          "enlace": "https://gestiononline.bioef.eus/ConvocatoriasPropiasBiobizkaia/es/Convocatorias/VerConvocatoria/3172",
+          "estado": "",
+          "provincia": "Bizkaia",
+          "centro": "Biobizkaia"
+        },
+        {
+          "titulo": "Técnica/o de Innovación REF. PT23/00128 para el del IIS Biobizkaia",
+          "fecha_inicio": "17/10/2025 13:35",
+          "fecha_limite": "15/11/2025 8:00",
+          "enlace": "https://gestiononline.bioef.eus/ConvocatoriasPropiasBiobizkaia/es/Convocatorias/VerConvocatoria/3169",
+          "estado": "",
+          "provincia": "Bizkaia",
+          "centro": "Biobizkaia"
+        },
+        {
+          "titulo": "Grado en Bioquímica, Farmacia, Biología o Biotecnología colaborar en el proyecto “BILTWIN - Generación y Caracterización de ‘Tumor Twins’-en-chip para Mimetizar la Heterogeneidad del Cáncer Biliar (CCA) y Evaluar Nuevas Terapias”, REF: KK-2025/00031 del",
+          "fecha_inicio": "15/10/2025 15:50",
+          "fecha_limite": "13/11/2025 8:00",
+          "enlace": "https://gestiononline.bioef.eus/ConvocatoriasPropiasBiobizkaia/es/Convocatorias/VerConvocatoria/3168",
+          "estado": "",
+          "provincia": "Bizkaia",
+          "centro": "Biobizkaia"
+        },
+        {
+          "titulo": "INVESTIGADOR/A POSTDOCTORAL para el proyecto “EVALUACION Y DESARROLLO DE TERAPIAS PERSONALIZADAS PARA DISTROFIA MUSCULARES POR DEFICIT DE COLAGENO VI”, REF. BC/A/22/042; IIS Biobizkaia",
+          "fecha_inicio": "13/10/2025 13:30",
+          "fecha_limite": "11/11/2025 8:00",
+          "enlace": "https://gestiononline.bioef.eus/ConvocatoriasPropiasBiobizkaia/es/Convocatorias/VerConvocatoria/3164",
+          "estado": "",
+          "provincia": "Bizkaia",
+          "centro": "Biobizkaia"
+        },
+        {
+          "titulo": "Bioestadística/o, para el proyecto “Adherencia a los programas de salud sexual y reproductiva por parte de las mujeres migrantes residentes en la CAPV”, REF 2024111065 del IIS Biobizkaia",
+          "fecha_inicio": "30/09/2025 13:30",
+          "fecha_limite": "29/10/2025 8:00",
+          "enlace": "https://gestiononline.bioef.eus/ConvocatoriasPropiasBiobizkaia/es/Convocatorias/VerConvocatoria/3066",
+          "estado": "",
+          "provincia": "Bizkaia",
+          "centro": "Biobizkaia"
+        }
+      ]
+    }
+  }
+}
